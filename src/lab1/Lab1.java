@@ -13,6 +13,7 @@ public class Lab1 {
         
         // To Print the required statement 
         System.out.println("Hello World, my GitHub account name is AzraaParveen Shaikh");
+        System.out.println("This change required for the Lab");
         
     }
     
